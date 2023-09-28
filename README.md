@@ -1,4 +1,4 @@
-Hi 👋 My name is Ben Lambert
+Hi, 👋 my name is Ben Lambert
 ============================
 
 Data Science and Engineering.
