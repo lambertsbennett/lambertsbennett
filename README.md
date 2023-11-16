@@ -9,7 +9,7 @@ My background is environmental engineering and microbial ecology. I graduated fr
 * 🌍  I'm based in Austria/Canada.
 * ✉️  You can contact me at [lambertsbennett@gmail.com](mailto:lambertsbennett@gmail.com)
 * 🧠  I'm learning Rust and Go!
-* 🤝  I'm open to collaborating on data engineering projects, data visualization, open data science initiatives (honestly anything interesting!).
+* 🤝  I'm open to collaborating on data engineering projects, data visualization, open data science initiatives.
 
 ### Skills
 
