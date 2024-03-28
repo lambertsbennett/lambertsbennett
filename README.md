@@ -6,7 +6,7 @@ Data Science/Engineering and Software Engineering.
 
 My background is environmental engineering and microbial ecology. I graduated from the MIT-WHOI Joint Program in Oceanography, where I focused on microtechnology to study marine bacteria. Since then I have worked across several industries/domains with a focus on analytics and machine learning.
 
-* 🌍  I'm based in Austria/Canada.
+* 🌍  I'm based in Canada.
 * ✉️  You can contact me at [lambertsbennett@gmail.com](mailto:lambertsbennett@gmail.com)
 * 🧠  I'm learning Rust, Go, JavaScript and associated frameworks!
 * 🤝  I'm open to collaborating on data engineering projects, data visualization, open data science initiatives, any interesting software projects!
